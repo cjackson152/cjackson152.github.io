@@ -1,0 +1,11 @@
+h1 {
+    padding: 0px;
+    margin: 0px;
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: dodgerblue;
+    color: white;
+    width: 100%;
+    Height: 60px;
+}
