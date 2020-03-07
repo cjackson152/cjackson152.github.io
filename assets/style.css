@@ -1,23 +1,10 @@
-h1 {
-    padding: 0;
-    margin: 0;
-    font-size: 48px;
-    font-family: 'Times New Roman', Times, serif;
+/*wallpaper img*/
+body {
+    margin:0;
+    background-image: url(https://www.transparenttextures.com/patterns/crisp-paper-ruffles.png);
     text-align: center;
-    background-color: dodgerblue;
-    color: white;
-    width: 100%;
-    Height: 60px;
 }
+.spacer5 {
+    height: 10px;
 
-h2 {
-    padding: 0;
-    margin: 0;
-    font-size: 18px;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-    background-color: dodgerblue;
-    color: white;
-    width: 100%;
-    Height: 44px;
 }
